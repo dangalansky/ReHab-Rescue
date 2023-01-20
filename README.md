@@ -9,6 +9,6 @@ a checkbox input allows users to indicate what they have completed each day and 
 
 the original code was developed in tandem with London App Brewery's Web Development Course and expanded to develop this idea. 
 
-all logo art was designed and completed by yours truly. 
+all logo art was designed by yours truly. 
 
 as always, feel free to steal or destroy at will. 
