@@ -15,7 +15,11 @@ function Note(props) {
           <input type="checkbox" name="finished" />
         </div>
         <h1>{props.title}</h1>
-        <img src={props.imgUrl} className="image" />
+        <img
+          src={props.imgUrl}
+          className="image"
+          alt="reference for exercise"
+        />
         <p>
           <span className="bold">Reps: </span>
           {props.reps}
